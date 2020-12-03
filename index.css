@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -48,7 +51,7 @@ table {
 }
 
 
-@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+
 
 .header_img{
     display: inline-block;
@@ -73,7 +76,14 @@ p {
 
 }
 
-.nav1 {}
+.box2 {
+	background-color:#DDB9A3;
+	color:white;
+	font-family:'Roboto Mono', cursive;
 
 }
 
+.fire img{
+	width: 10px;
+	
+ }            ;}
